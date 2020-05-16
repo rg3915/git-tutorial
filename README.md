@@ -244,19 +244,19 @@ git commit -m 'Fix mensagem sobre suas alterações. Close #1'
 
 [Opções disponíveis para o GitLab](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#default-closing-pattern)
 
-* Close, Closes, Closed, Closing, close, closes, closed, closing
-* Fix, Fixes, Fixed, Fixing, fix, fixes, fixed, fixing
-* Resolve, Resolves, Resolved, Resolving, resolve, resolves, resolved, resolving
-* Implement, Implements, Implemented, Implementing, implement, implements, implemented, implementing
+* `Close`, `Closes`, `Closed`, `Closing`, `close`, `closes`, `closed`, `closing`
+* `Fix`, `Fixes`, `Fixed`, `Fixing`, `fix`, `fixes`, `fixed`, `fixing`
+* `Resolve`, `Resolves`, `Resolved`, `Resolving`, `resolve`, `resolves`, `resolved`, `resolving`
+* `Implement`, `Implements`, `Implemented`, `Implementing`, `implement`, `implements`, `implemented`, `implementing`
 
 [Opções disponíveis para o Bitbucket](https://confluence.atlassian.com/bitbucket/resolve-issues-automatically-when-users-push-code-221451126.html)
 
-* close, closes, closed, closing, fix, fixed, fixes, fixing, resolve, resolves, resolved, resolving
-* reopen, reopens, reopening
-* hold, holds, holding
-* wontfix
-* invalidate, invalidates, invalidated, invalidating
-* addresses, re, references, ref, refs, see
+* `close`, `closes`, `closed`, `closing`, `fix`, `fixed`, `fixes`, `fixing`, `resolve`, `resolves`, `resolved`, `resolving`
+* `reopen`, `reopens`, `reopening`
+* `hold`, `holds`, `holding`
+* `wontfix`
+* `invalidate`, `invalidates`, `invalidated`, `invalidating`
+* `addresses`, `re`, `references`, `ref`, `refs`, `see`
 
 
 ## Refatore nomes dos arquivos
