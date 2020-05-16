@@ -238,9 +238,9 @@ git commit -m 'Fix mensagem sobre suas alterações. Close #1'
 
 [Opções disponíveis para o GitHub](https://help.github.com/pt/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword)
 
-* close, closes, closed
-* fix, fixes, fixed
-* resolve, resolve, resolved
+* `close`, `closes`, `closed`
+* `fix`, `fixes`, `fixed`
+* `resolve`, `resolve`, `resolved`
 
 [Opções disponíveis para o GitLab](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#default-closing-pattern)
 
