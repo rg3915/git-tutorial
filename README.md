@@ -32,6 +32,8 @@ git help -a
 
 https://education.github.com/git-cheat-sheet-education.pdf
 
+http://onlywei.github.io/explain-git-with-d3/#
+
 ## Configure
 
 Configura o nome que você quer ligado as suas transações de commit.
